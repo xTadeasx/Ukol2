@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tadeas\\Desktop\\Ukol2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5175579B-5345-4499-9730-996E854CCD4C}|Ukol2.vcxproj|C:\\Users\\Tadeas\\Desktop\\Ukol2\\Ukol2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5175579B-5345-4499-9730-996E854CCD4C}|Ukol2.vcxproj|solutionrelative:Ukol2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ukol2.cpp",
+              "DocumentMoniker": "C:\\Users\\Tadeas\\Desktop\\Ukol2\\Ukol2.cpp",
+              "RelativeDocumentMoniker": "Ukol2.cpp",
+              "ToolTip": "C:\\Users\\Tadeas\\Desktop\\Ukol2\\Ukol2.cpp",
+              "RelativeToolTip": "Ukol2.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAALEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T21:41:58.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
